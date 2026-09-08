@@ -25,6 +25,7 @@
 - [DLL DECOMPILE ILSPYCMD](DLL%20DECOMPILE%20ILSPYCMD.md)
 - [VIM 常用操作](VIM常用操作.md)
 - [IIS SSL 憑證可以有 open/free/短期的嗎](iis-ssl-憑證-可以有-open-free-短期的嗎.md)
+- [Browser 開啟 file:// 連結解法整理](browser-open-file-link-solution.md)
 
 ### Git / 文件 / 工作流
 
