@@ -32,6 +32,10 @@
 - [squash merge vs no fast-forward merge vs fast-forward merge vs rebase merge](squash-merge-vs-no-fast-forward-merge-vs-fast-forward-merge-vs-rebase-merge.md)
 - [markdown slide example](markdown_slide_example.md)
 
+### Oracle Forms / Reports / D2K
+
+- [D2K / Oracle Forms `.fmb` 與 Reports `.rdf` 轉換與盤點方案](d2k-fmb_rdf-conver-to-txt-solution.md)
+
 ### 網管與實驗環境
 
 - [可以用 GNS3 搭配 AI Agent CLI 學習網管嗎](可以用-gns3-搭配-ai-agent-cli-學習網管嗎.md)
