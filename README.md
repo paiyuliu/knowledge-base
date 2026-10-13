@@ -16,6 +16,7 @@
 - [AI 優化 MusicXML 的多種方法](AI-優化-MusicXML-的多種方法.md)
 - [ai-agent 下，skill 就是 workflow 嗎](ai-agent-下，skill-就是-workflow-嗎.md)
 - [ai-agent 適合的 CAD tool 是什麼](ai-agent-適合的-CAD-tool-是什麼.md)
+- [Spec Kit、OpenSpec、Kiro 與 BMAD 的 SDD 階段比較](SPEC_KIT.md)
 
 ### 開發工具與系統設定
 
@@ -26,6 +27,8 @@
 - [VIM 常用操作](VIM常用操作.md)
 - [IIS SSL 憑證可以有 open/free/短期的嗎](iis-ssl-憑證-可以有-open-free-短期的嗎.md)
 - [Browser 開啟 file:// 連結解法整理](browser-open-file-link-solution.md)
+- [Ubuntu 24.04 WSL Tar 下載與 CLI 環境安裝](Ubuntu-24-WSL-Tar-Download.md)
+- [Windows 下透過 WSL 操作 Codex CLI 與 Copilot CLI 的網路問題](在-windows-下-codex-cli-or-github-copilot-cli-可以進入-WSL-操作-COMMAND-嗎.md)
 
 ### Git / 文件 / 工作流
 
