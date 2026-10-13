@@ -1,6 +1,10 @@
 # Pull Request Merge Command Notes
 
-Generic examples for working with a pull request on a Gitea-compatible server. Replace the sample values before running the commands.
+The Git commands in this document are platform-independent and work with GitHub and Gitea remotes. The REST API examples below are for Gitea-compatible servers only; GitHub uses a different merge API request. Replace the sample values before running the commands.
+
+## TODO
+
+- [ ] Add and verify GitHub REST API examples for querying, merging, and verifying pull requests.
 
 ## Configuration
 
