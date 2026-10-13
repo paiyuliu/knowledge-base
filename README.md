@@ -33,6 +33,7 @@
 ### Git / 文件 / 工作流
 
 - [squash merge vs no fast-forward merge vs fast-forward merge vs rebase merge](squash-merge-vs-no-fast-forward-merge-vs-fast-forward-merge-vs-rebase-merge.md)
+- [Pull Request Merge Command Notes](PR_MERGE_COMMANDS.md)
 - [markdown slide example](markdown_slide_example.md)
 
 ### Oracle Forms / Reports / D2K
