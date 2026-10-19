@@ -37,6 +37,10 @@
 - [Pull Request Merge Command Notes](PR_MERGE_COMMANDS.md)
 - [markdown slide example](markdown_slide_example.md)
 
+### 筆記媒體與儲存
+
+- [GitHub 筆記的照片、影片與長期儲存方案](GitHub-筆記照片影片儲存方案.md)
+
 ### Oracle Forms / Reports / D2K
 
 - [D2K / Oracle Forms `.fmb` 與 Reports `.rdf` 轉換與盤點方案](d2k-fmb_rdf-conver-to-txt-solution.md)
