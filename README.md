@@ -30,9 +30,12 @@
 - [Browser 開啟 file:// 連結解法整理](browser-open-file-link-solution.md)
 - [Ubuntu 24.04 WSL Tar 下載與 CLI 環境安裝](Ubuntu-24-WSL-Tar-Download.md)
 - [Mac mini 與 WSL：Copilot CLI 可用、Codex CLI 連線失敗的排查紀錄](mac-mini-wsl-copilot-cli-works-codex-cli-connection-fails.md)
+- [nvm 可以設定 node 的儲存位置嗎](nvm-可以設定-node-的儲存位置嗎_20261027-0857.md)
+- [Node.js 資安漏洞盤點](Node.js-資安漏洞盤點_20261027-0857.md)
 
 ### Git / 文件 / 工作流
 
+- [CI/CD 部署：在 git server 執行，還是在 target server pull 後執行](CI-CD-PULL-PUSH-問題.md)
 - [squash merge vs no fast-forward merge vs fast-forward merge vs rebase merge](squash-merge-vs-no-fast-forward-merge-vs-fast-forward-merge-vs-rebase-merge.md)
 - [Pull Request Merge Command Notes](PR_MERGE_COMMANDS.md)
 - [markdown slide example](markdown_slide_example.md)
@@ -54,9 +57,19 @@
 - [midi keyboard use sf2](midi-keyboard-use-sf2.md)
 - [流行歌曲 sound font 推薦](流行歌曲-sound-font-推薦.md)
 
+### 水電與電學
+
+- [水電課堂筆記：索引與安全校核](00_水電筆記索引與安全校核.md)
+- [電學或家庭水電知識課程](電學或家庭水電知識課程.md)
+- [居家水電電流、電壓與線徑上限對照（Google Search 整理）](Google-Search_有沒有居家水電-電流安培數-電壓-與-線徑-的-上限-對照_20261027-1014.md)
+- [電線安全電流對照表與電工法規電線安培容量整理（Copilot）](Copilot_幫我把這兩頁-電線安全電流對照表｜線徑平方安培速查-，-電工法規電線安培容量-做個整理_20261027-1136.md)
+- 相關圖片放在 [images](images/)（開關、插座與電學符號圖）
+
+> 水電內容僅為學習整理，不可直接作為施工或選線依據，詳見索引頁的安全提醒。
+
 ### 生活與其他筆記
 
-- [竹管厝驅蟲](竹管厝驅蟲.md)
+- [紫微八字 SDD](紫微八字SDD.md)- [竹管厝驅蟲](竹管厝驅蟲.md)
 - [只驅蟲不殺蟲](只驅蟲不殺蟲.md)
 - [注音符號參考字](注音符號參考字.md)
 
