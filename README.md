@@ -28,6 +28,7 @@
 - [VIM 常用操作](VIM常用操作.md)
 - [IIS SSL 憑證可以有 open/free/短期的嗎](iis-ssl-憑證-可以有-open-free-短期的嗎.md)
 - [Browser 開啟 file:// 連結解法整理](browser-open-file-link-solution.md)
+- [HTML Entity 與 Emoji 的差異](Html_Entity_And_Emoji.md)
 - [Ubuntu 24.04 WSL Tar 下載與 CLI 環境安裝](Ubuntu-24-WSL-Tar-Download.md)
 - [Mac mini 與 WSL：Copilot CLI 可用、Codex CLI 連線失敗的排查紀錄](mac-mini-wsl-copilot-cli-works-codex-cli-connection-fails.md)
 - [nvm 可以設定 node 的儲存位置嗎](nvm-可以設定-node-的儲存位置嗎_20261027-0857.md)
