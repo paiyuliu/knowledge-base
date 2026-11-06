@@ -8,6 +8,7 @@
 
 ### AI / Agent / Ollama
 
+- [AI Agent：Harness Engineering 與 Loop Engineering 的差異](AI-AGENT-HARNESS-LOOP-ENGINEERING-DIFF.md)
 - [OLLAMA_AD_RAG_KM](OLLAMA_AD_RAG_KM.md)
 - [ollama 可用模型整理](ollama_可用模型整理.md)
 - [ollama 影像辨識 OCR invoice 統一發票](ollama_影像辨識_OCR_invoice_統一發票.md)
@@ -16,6 +17,7 @@
 - [AI 優化 MusicXML 的多種方法](AI-優化-MusicXML-的多種方法.md)
 - [ai-agent 下，skill 就是 workflow 嗎](ai-agent-下，skill-就是-workflow-嗎.md)
 - [ai-agent 適合的 CAD tool 是什麼](ai-agent-適合的-CAD-tool-是什麼.md)
+- [思考框架與 AI Skill](思考框架%20SKILL.md)
 - [LoRA、RAG 與 Fine-tuning 的差異](lora-vs-rag.md)
 - [Spec Kit、OpenSpec、Kiro 與 BMAD 的 SDD 階段比較](SPEC_KIT.md)
 
@@ -26,6 +28,7 @@
 - [kilocode ollama server 設定紀錄](kilocode-ollama-server-設定紀錄.md)
 - [DLL DECOMPILE ILSPYCMD](DLL%20DECOMPILE%20ILSPYCMD.md)
 - [VIM 常用操作](VIM常用操作.md)
+- [VS Code 工作區擴充功能設定檔與 Profiles](VSCODE-工作區設定檔位置.md)
 - [IIS SSL 憑證可以有 open/free/短期的嗎](iis-ssl-憑證-可以有-open-free-短期的嗎.md)
 - [Browser 開啟 file:// 連結解法整理](browser-open-file-link-solution.md)
 - [HTML Entity 與 Emoji 的差異](Html_Entity_And_Emoji.md)
@@ -70,7 +73,8 @@
 
 ### 生活與其他筆記
 
-- [紫微八字 SDD](紫微八字SDD.md)- [竹管厝驅蟲](竹管厝驅蟲.md)
+- [紫微八字 SDD](紫微八字SDD.md)
+- [竹管厝驅蟲](竹管厝驅蟲.md)
 - [只驅蟲不殺蟲](只驅蟲不殺蟲.md)
 - [注音符號參考字](注音符號參考字.md)
 
