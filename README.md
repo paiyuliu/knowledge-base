@@ -39,6 +39,8 @@
 
 ### Git / 文件 / 工作流
 
+- [Git 分支與共同祖先筆記](Git分支與共同祖先筆記.md)
+- [Git 淺層複製與分支共同交集後的歷史紀錄](GIT分支共同交集後之歷史紀錄.md)
 - [CI/CD 部署：在 git server 執行，還是在 target server pull 後執行](CI-CD-PULL-PUSH-問題.md)
 - [squash merge vs no fast-forward merge vs fast-forward merge vs rebase merge](squash-merge-vs-no-fast-forward-merge-vs-fast-forward-merge-vs-rebase-merge.md)
 - [Pull Request Merge Command Notes](PR_MERGE_COMMANDS.md)
@@ -73,6 +75,7 @@
 
 ### 生活與其他筆記
 
+- [台灣訂房網站刷卡安全性與無卡付款全攻略](台灣訂房網站刷卡安全性與無卡付款全攻略.md)
 - [紫微八字 SDD](紫微八字SDD.md)
 - [竹管厝驅蟲](竹管厝驅蟲.md)
 - [只驅蟲不殺蟲](只驅蟲不殺蟲.md)
